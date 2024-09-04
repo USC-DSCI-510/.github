@@ -1,5 +1,11 @@
 # DSCI 510: Principles of Programming for Data Science
 
+### About
+**University of Southern California**  
+**Instructor**: Amandeep Singh  
+**Program**: Data Science  
+**Department**: Thomas Lord Department of Computer Science, Viterbi School of Engineering
+
 ## Course Overview
 **DSCI 510** is an introductory programming course designed for non-Computer Science majors, focusing on foundational concepts in computer science and Python programming. The course emphasizes working with large datasets, data retrieval, analysis, and visualization, equipping students with practical coding skills for data science.
 
@@ -21,10 +27,3 @@ By the end of the course, students will:
 | **Lab Assignments & Homework** | Weekly coding tasks reinforcing lecture topics. Submitted online.               |
 | **Midterm Exam** | Assess basic programming skills and Python proficiency.                          |
 | **Final Project** | A project that applies all learned skills to a domain of student’s choice.      |
-
-### About
-**University of Southern California**  
-**Instructor**: Amandeep Singh  
-**Program**: Data Science  
-**Department**: Thomas Lord Department of Computer Science, Viterbi School of Engineering
-
